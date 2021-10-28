@@ -14,6 +14,8 @@ how to :ref:`installation` the project.
    This project is under active development.
 
    Lumache has its documentation hosted on Read the Docs.
+   
+   Now trying to trigger a build from a pull request
 
 Contents
 --------
